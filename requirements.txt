@@ -9,3 +9,7 @@ pydantic
 
 litellm
 groq
+
+pandas
+numpy
+scikit-learn
