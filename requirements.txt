@@ -13,3 +13,11 @@ groq
 pandas
 numpy
 scikit-learn
+
+python-dotenv
+huggingface_hub
+litellm
+numpy
+tqdm
+scikit-learn
+torch
