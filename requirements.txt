@@ -21,3 +21,16 @@ numpy
 tqdm
 scikit-learn
 torch
+
+
+torch
+transformers
+peft
+datasets
+tqdm
+huggingface_hub
+python-dotenv
+matplotlib
+bitsandbytes
+scipy
+accelerate
