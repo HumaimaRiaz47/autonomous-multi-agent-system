@@ -34,3 +34,23 @@ matplotlib
 bitsandbytes
 scipy
 accelerate
+
+# Machine Learning & Deep Learning Framework
+torch
+
+# Hugging Face Ecosystem
+transformers
+datasets
+huggingface_hub
+
+# Fine-Tuning & Optimization
+peft
+trl
+bitsandbytes
+
+# Experiment Tracking
+wandb
+
+# Utilities & Visualization
+tqdm
+matplotlib
