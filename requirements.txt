@@ -54,3 +54,4 @@ wandb
 # Utilities & Visualization
 tqdm
 matplotlib
+modal
